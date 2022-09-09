@@ -19,7 +19,7 @@ This repository contains the following files
 * **.gitignore**: Added this file to list files to ignore (in this project it was config.py which held the API key for themoviedb.org)
 
 ## Objective
-A Hollywood producer came to our firm to find out if it was a worthwhile investment to make his Science Fiction Movie based on the recent worldwide top gross earnings report.
+A Hollywood producer came to our firm to find out if it was a worthwhile investment to make his Science Fiction Movie based on the recent worldwide top gross earnings report. [**Proposal Link**](https://drive.google.com/file/d/1ugL-ZTrAjxbiXyeW3tG2H9uqdj_v21wq/view?usp=sharing)
 
 # Extraction of Data
 First, we identified our data sets and sources that we wanted to use. We chose Box Office Mojo and The Movie Database in order to get comprehensive info.
